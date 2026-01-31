@@ -1,8 +1,8 @@
 [
-	{"ID":"SpeedUp5m","SpeedupMinutes":"5","Price":"100"},
-	{"ID":"SpeedUp15m","SpeedupMinutes":"15","Price":"200"},
-	{"ID":"SpeedUp30m","SpeedupMinutes":"30","Price":"300"},
-	{"ID":"SpeedUp1hr","SpeedupMinutes":"60","Price":"400"},
-	{"ID":"SpeedUp2hr","SpeedupMinutes":"120","Price":"500"},
-	{"ID":"SpeedUp4hr","SpeedupMinutes":"240","Price":"600"}
+	{"ID":"SpeedUp5m","SpeedupMinutes":"10","Price":"25"},
+	{"ID":"SpeedUp15m","SpeedupMinutes":"30","Price":"75"},
+	{"ID":"SpeedUp30m","SpeedupMinutes":"60","Price":"150"},
+	{"ID":"SpeedUp1hr","SpeedupMinutes":"120","Price":"300"},
+	{"ID":"SpeedUp2hr","SpeedupMinutes":"240","Price":"600"},
+	{"ID":"SpeedUp4hr","SpeedupMinutes":"480","Price":"900"}
 ]
