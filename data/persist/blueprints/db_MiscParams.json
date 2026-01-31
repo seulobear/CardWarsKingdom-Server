@@ -1,5 +1,5 @@
 [
-	{"Parameter":"SecondsPerStamina","Value":"600"},
+	{"Parameter":"SecondsPerStamina","Value":"30"},
 	{"Parameter":"StaminaRefillCost","Value":"0"},
 	{"Parameter":"MaxPvpStamina","Value":"999"},
 	{"Parameter":"PvpStaminaMatchCost","Value":"0"},
@@ -11,8 +11,8 @@
 	{"Parameter":"ReviveCost","Value":"100"},
 	{"Parameter":"StartingInventorySpace","Value":"25"},
 	{"Parameter":"MaxInventorySpace","Value":"1000"},
-	{"Parameter":"InventorySpacePurchaseCost","Value":"75"},
-	{"Parameter":"InventorySpacePerPurchase","Value":"5"},
+	{"Parameter":"InventorySpacePurchaseCost","Value":"50"},
+	{"Parameter":"InventorySpacePerPurchase","Value":"10"},
 	{"Parameter":"StartingActionPoints","Value":"2"},
 	{"Parameter":"StartingStaminaPoints","Value":"50"},
 	{"Parameter":"CriticalPercent","Value":"50"},
